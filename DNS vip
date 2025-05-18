@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CommandsTable</key>
+	<dict>
+		<key>Custom.769295186.544923</key>
+		<dict>
+			<key>ConfirmationRequired</key>
+			<false/>
+			<key>CustomCommands</key>
+			<dict>
+				<key>en_US</key>
+				<array>
+					<string>FF TH</string>
+				</array>
+			</dict>
+			<key>CustomModifyDate</key>
+			<date>2025-05-18T21:06:48Z</date>
+			<key>CustomScope</key>
+			<string>com.dts.freefireth</string>
+			<key>CustomTextToInsert</key>
+			<string>CRIADOR: DHZINXL YT
+AUXILIO FREE
+&lt;key&gt;CFBundle Development Region&lt;/key&gt;
+&lt;string&gt;en&lt;/string&gt;
+&lt;key&gt;CFBundleDisplayName&lt;/key&gt;
+&lt;key&gt;CFBundleExecutable&lt;/key&gt;
+&lt;string&gt;freefireth&lt;/string&gt;
+&lt;key&gt;CFBundleIconFiles&lt;/key&gt;
+&lt;array&gt;
+&lt;string&gt;icon.png&lt;/string&gt;
+&lt;string&gt;icon@2x.png&lt;/string&gt;
+&lt;string&gt;icon@3x.png&lt;/string&gt;
+&lt;/array&gt;
+&lt;key&gt;CFBundleIdentifier&lt;/key&gt;
+&lt;string&gt;com.dts.freefirethhhh&lt;/string&gt;
+&lt;key&gt;CFBundleInfoDictionaryVersion&lt;/key&gt;
+&lt;string&gt;6.0&lt;/string&gt;
+&lt;key&gt;CFBundle Localizations&lt;/key&gt;
+&lt;array&gt;
+&lt;string&gt;en&lt;/string&gt;
+&lt;string&gt;th&lt;/string&gt;
+&lt;string&gt;vi&lt;/string&gt;
+&lt;string&gt;id&lt;/string&gt;
+&lt;string&gt;pt-BR&lt;/string&gt;
+&lt;string&gt;es&lt;/string&gt;
+&lt;string&gt;ru&lt;/string&gt;
+&lt;string&gt;fr&lt;/string&gt;
+&lt;string&gt;de&lt;/string&gt;
+&lt;string&gt;tr&lt;/string&gt;
+&lt;string&gt;ro&lt;/string&gt;
+&lt;string&gt;ar&lt;/string&gt;
+&lt;string&gt;my&lt;/string&gt;
+&lt;string&gt;hi&lt;/string&gt;
+&lt;string&gt;ur&lt;/string&gt;
+&lt;string&gt;bn&lt;/string&gt;
+&lt;string&gt;zh-Hant&lt;/string&gt;
+&lt;string&gt;ko&lt;/string&gt;
+&lt;string&gt;ja&lt;/string&gt;
+&lt;/array&gt;
+&lt;key&gt;CFBundle Development Region&lt;/key&gt;
+&lt;string&gt;en&lt;/string&gt;
+&lt;key&gt;CFBundleDisplayName&lt;/key&gt;
+&lt;key&gt;CFBundleExecutable&lt;/key&gt;
+&lt;string&gt;freefireth&lt;/string&gt;
+&lt;array&gt;
+&lt;key&gt;CFBundleIconFiles&lt;/key&gt;
+&lt;string&gt;icon.png&lt;/string&gt;
+&lt;string&gt;icon@2x.png&lt;/string&gt;
+&lt;string&gt;icon@3x.png&lt;/string&gt;
+&lt;/array&gt;
+&lt;key&gt;CFBundleIdentifier&lt;/key&gt;
+&lt;string&gt;com.dts.freefirethhhh&lt;/string&gt;
+&lt;key&gt;CFBundle InfoDictionaryVersion&lt;/key&gt;
+&lt;string&gt;6.0&lt;/string&gt;
+&lt;key&gt;CFBundle Localizations&lt;/key&gt;
+&lt;array&gt;
+&lt;string&gt;en&lt;/string&gt;
+&lt;string&gt;th&lt;/string&gt;
+&lt;string&gt;vi&lt;/string&gt;</string>
+			<key>CustomType</key>
+			<string>PasteText</string>
+		</dict>
+	</dict>
+	<key>ExportDate</key>
+	<real>769295211.78154802</real>
+	<key>SystemVersion</key>
+	<dict>
+		<key>BuildID</key>
+		<string>DA97C5D4-0A06-11F0-A30D-78D7228FBE41</string>
+		<key>ProductBuildVersion</key>
+		<string>22E240</string>
+		<key>ProductCopyright</key>
+		<string>1983-2025 Apple Inc.</string>
+		<key>ProductName</key>
+		<string>iPhone OS</string>
+		<key>ProductVersion</key>
+		<string>18.4</string>
+		<key>SystemImageID</key>
+		<string>8CC2CB0F-4F23-4A3C-BCE4-22F6569E1EF7</string>
+	</dict>
+</dict>
+</plist>
