@@ -1,2 +1,61 @@
 # Configuration-Profiles
 Example configuration profiles for use by MacAdmins
+CRIADOR: DHZINXL YT
+AUXILIO FREE
+<key>CFBundle Development Region</key>
+<string>en</string>
+<key>CFBundleDisplayName</key>
+<key>CFBundleExecutable</key>
+<string>freefireth</string>
+<key>CFBundleIconFiles</key>
+<array>
+<string>icon.png</string>
+<string>icon@2x.png</string>
+<string>icon@3x.png</string>
+</array>
+<key>CFBundleIdentifier</key>
+<string>com.dts.freefirethhhh</string>
+<key>CFBundleInfoDictionaryVersion</key>
+<string>6.0</string>
+<key>CFBundle Localizations</key>
+<array>
+<string>en</string>
+<string>th</string>
+<string>vi</string>
+<string>id</string>
+<string>pt-BR</string>
+<string>es</string>
+<string>ru</string>
+<string>fr</string>
+<string>de</string>
+<string>tr</string>
+<string>ro</string>
+<string>ar</string>
+<string>my</string>
+<string>hi</string>
+<string>ur</string>
+<string>bn</string>
+<string>zh-Hant</string>
+<string>ko</string>
+<string>ja</string>
+</array>
+<key>CFBundle Development Region</key>
+<string>en</string>
+<key>CFBundleDisplayName</key>
+<key>CFBundleExecutable</key>
+<string>freefireth</string>
+<array>
+<key>CFBundleIconFiles</key>
+<string>icon.png</string>
+<string>icon@2x.png</string>
+<string>icon@3x.png</string>
+</array>
+<key>CFBundleIdentifier</key>
+<string>com.dts.freefirethhhh</string>
+<key>CFBundle InfoDictionaryVersion</key>
+<string>6.0</string>
+<key>CFBundle Localizations</key>
+<array>
+<string>en</string>
+<string>th</string>
+<string>vi</string>
