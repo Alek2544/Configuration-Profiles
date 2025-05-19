@@ -1,33 +1,112 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<Aps>
-	<Group>
-		<Page Width="595" Height="842" PaperTray="0">
-			<Canvas>
-				<Canvas>
-					<Clip>
-						<Path FillMode="Winding">
-							<PathFigure IsClosed="True">
-								<PolyLine LineColor="#FF000000">
-									<Point X="0" Y="842" />
-									<Point X="0" Y="0" />
-								</PolyLine>
-								<PolyLine LineColor="#FF000000">
-									<Point X="0" Y="0" />
-									<Point X="595" Y="0" />
-								</PolyLine>
-								<PolyLine LineColor="#FF000000">
-									<Point X="595" Y="0" />
-									<Point X="595" Y="842" />
-								</PolyLine>
-								<PolyLine LineColor="#FF000000">
-									<Point X="595" Y="842" />
-									<Point X="0" Y="842" />
-								</PolyLine>
-							</PathFigure>
-						</Path>
-					</Clip>
-				</Canvas>
-			</Canvas>
-		</Page>
-	</Group>
-</Aps>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+
+        <key>EmailAccountType</key>
+        <string>EmailTypeIMAP</string>
+
+
+        <key>EmailAddress</key>
+        <string>alek@gmail.com</string>
+
+        <key>IncomingMailServerAuthentication</key>
+        <string>EmailAuthPassword</string>
+
+        <key>IncomingMailServerHostName</key>
+        <string>http://imap.yourbiz.com/</string>
+
+        <key>IncomingMailServerPortNumber</key>
+        <integer>993</integer>
+
+        <key>IncomingMailServerUseSSL</key>
+          <true/>
+
+        <key>IncomingMailServerUsername</key>
+        <string>@ALEK</string>
+
+        <key>IncomingPassword</key>
+        <string>2544</string>
+
+        <key>OutgoingMailServerAuthentication</key>
+        <string>EmailAuthPassword</string>
+
+        <key>OutgoingMailServerHostName</key>
+        <string>http://imap.yourbiz.com/</string>
+
+        <key>OutgoingMailServerPortNumber</key>
+        <integer>465</integer>
+
+        <key>OutgoingMailServerUseSSL</key>
+          <true/>
+
+          <key>OutgoingMailServerUsername</key>
+          <string>@ALEK</string>
+
+          <key>OutgoingPassword</key>
+          <string>2544</string>
+
+        <key>PayloadDescription</key>
+        <string>Configures email account.</string>
+
+        <key>PayloadDisplayName</key>
+        <string>IMAP Account</string>
+
+        <key>PayloadIdentifier</key>
+        <string>xyz.alsina.mobileconfig</string>
+
+          <key>PayloadOrganization</key>
+          <string>alsina.xyz</string>
+
+        <key>PayloadType</key>
+        <string>com.apple.mail.managed</string>
+
+        <key>PayloadUUID</key>
+        <string>c50e7f31-ec17-4167-b47c-3130dd0e920f</string>
+
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+
+        <key>PreventAppSheet</key>
+        <false/>
+
+        <key>PreventMove</key>
+        <false/>
+
+        <key>SMIMEEnabled</key>
+        <false/>
+
+        <key>allowMailDrop</key>
+        <true/>
+
+      </dict>
+    </array>
+
+    <key>PayloadDescription</key>
+    <string>Install this profile to auto configure email account for alek@gmail.com.</string>
+
+    <key>PayloadDisplayName</key>
+    <string>Mail Account</string>
+
+    <key>PayloadIdentifier</key>
+    <string>xyz.alsina.mobileconfig</string>
+
+      <key>PayloadOrganization</key>
+      <string>alsina.xyz</string>
+
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+
+    <key>PayloadType</key>
+    <string>Configuration</string>
+
+    <key>PayloadUUID</key>
+    <string>fc88a6c4-3694-44eb-affb-0755c1e20fba</string>
+
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+  </dict>
+</plist>
